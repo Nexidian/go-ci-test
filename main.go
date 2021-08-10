@@ -7,5 +7,6 @@ func sum(x int, y int) int {
 }
 
 func main() {
+
 	fmt.Print(sum("string", 2))
 }
